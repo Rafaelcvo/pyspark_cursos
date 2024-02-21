@@ -1,2 +1,2 @@
-# pyspark_cursos
+# Pyspark cursos
 Curso de PySpark
